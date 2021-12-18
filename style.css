@@ -1,0 +1,24 @@
+body
+{
+    background-color: aquamarine;
+}
+
+#score
+{
+    font-size: 35px;
+    float: left;
+    margin-left: 30px;
+}
+
+#timer 
+{
+    font-size: 35px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketch_to_be_drawn
+{
+    color: brown;
+    font-size: 25px;
+}
